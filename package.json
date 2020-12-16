@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-qrcode",
+  "version": "1.0.0",
+  "description": "creating qrcodes from json data example",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^2.0.6",
+    "qrcode": "^1.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShintaroBRL/nodejs-qrcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShintaroBRL/nodejs-qrcode/issues"
+  },
+  "homepage": "https://github.com/ShintaroBRL/nodejs-qrcode#readme"
+}
